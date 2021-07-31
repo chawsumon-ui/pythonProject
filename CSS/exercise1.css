@@ -1,0 +1,31 @@
+.container{
+	width: 1200px;
+	margin:0 auto;
+	background-color: gold;
+	border:1px solid black;
+}
+.header,.Footer{
+	background: gray;
+	color: black;
+	clear: both;
+	padding: 5px;
+}
+.Left{
+	width: 200px;
+	float: left;
+	padding: 15px;
+}
+.right{
+	width: 300px;
+	float: left;
+	padding: 15px;
+}
+.Mid{
+	width: 500px;
+	float: left;
+	border-left: solid black;
+	border-right: solid black;
+}
+.marginleft{
+	margin-left: 900px;
+}
